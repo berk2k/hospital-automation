@@ -1,0 +1,14 @@
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\bin\Debug\net7.0\hospital_automation.exe
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\bin\Debug\net7.0\hospital_automation.deps.json
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\bin\Debug\net7.0\hospital_automation.runtimeconfig.json
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\bin\Debug\net7.0\hospital_automation.dll
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\bin\Debug\net7.0\hospital_automation.pdb
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.AssemblyInfo.cs
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.dll
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\refint\hospital_automation.dll
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.pdb
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\hospital_automation.genruntimeconfig.cache
+C:\Users\monster\Desktop\oop_design\hospital-automation\hospital_automation\hospital_automation\obj\Debug\net7.0\ref\hospital_automation.dll
